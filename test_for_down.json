@@ -1,0 +1,1298 @@
+{
+  "lexical_info": [
+    {
+      "func": "calculateVolumeAndArea",
+      "level": 0,
+      "lexical_blocks": [],
+      "loctions": [
+        {
+          "column": 36,
+          "line": 3
+        },
+        {
+          "column": 12,
+          "line": 4
+        },
+        {
+          "column": 12,
+          "line": 5
+        },
+        {
+          "column": 20,
+          "line": 5
+        },
+        {
+          "column": 12,
+          "line": 6
+        },
+        {
+          "column": 22,
+          "line": 6
+        },
+        {
+          "column": 12,
+          "line": 7
+        },
+        {
+          "column": 12,
+          "line": 8
+        },
+        {
+          "column": 8,
+          "line": 10
+        },
+        {
+          "column": 16,
+          "line": 12
+        },
+        {
+          "column": 25,
+          "line": 12
+        },
+        {
+          "column": 23,
+          "line": 12
+        },
+        {
+          "column": 14,
+          "line": 12
+        },
+        {
+          "column": 21,
+          "line": 13
+        },
+        {
+          "column": 26,
+          "line": 13
+        },
+        {
+          "column": 24,
+          "line": 13
+        },
+        {
+          "column": 19,
+          "line": 13
+        },
+        {
+          "column": 28,
+          "line": 14
+        },
+        {
+          "column": 26,
+          "line": 14
+        },
+        {
+          "column": 33,
+          "line": 14
+        },
+        {
+          "column": 31,
+          "line": 14
+        },
+        {
+          "column": 42,
+          "line": 14
+        },
+        {
+          "column": 40,
+          "line": 14
+        },
+        {
+          "column": 51,
+          "line": 14
+        },
+        {
+          "column": 49,
+          "line": 14
+        },
+        {
+          "column": 12,
+          "line": 14
+        },
+        {
+          "column": 18,
+          "line": 15
+        },
+        {
+          "column": 16,
+          "line": 15
+        },
+        {
+          "column": 23,
+          "line": 15
+        },
+        {
+          "column": 21,
+          "line": 15
+        },
+        {
+          "column": 32,
+          "line": 15
+        },
+        {
+          "column": 30,
+          "line": 15
+        },
+        {
+          "column": 10,
+          "line": 15
+        },
+        {
+          "column": 28,
+          "line": 17
+        },
+        {
+          "column": 5,
+          "line": 17
+        },
+        {
+          "column": 30,
+          "line": 18
+        },
+        {
+          "column": 5,
+          "line": 18
+        },
+        {
+          "column": 35,
+          "line": 19
+        },
+        {
+          "column": 5,
+          "line": 19
+        },
+        {
+          "column": 28,
+          "line": 20
+        },
+        {
+          "column": 5,
+          "line": 20
+        },
+        {
+          "column": 26,
+          "line": 21
+        },
+        {
+          "column": 5,
+          "line": 21
+        },
+        {
+          "column": 1,
+          "line": 22
+        }
+      ]
+    },
+    {
+      "func": "findMax",
+      "level": 0,
+      "lexical_blocks": [
+        {
+          "level": 1,
+          "lexical_blocks": [
+            {
+              "level": 2,
+              "lexical_blocks": [
+                {
+                  "level": 3,
+                  "lexical_blocks": [],
+                  "locations": [
+                    {
+                      "column": 16,
+                      "line": 31
+                    },
+                    {
+                      "column": 20,
+                      "line": 31
+                    },
+                    {
+                      "column": 13,
+                      "line": 31
+                    },
+                    {
+                      "column": 5,
+                      "line": 32
+                    }
+                  ]
+                }
+              ],
+              "locations": [
+                {
+                  "column": 17,
+                  "line": 30
+                },
+                {
+                  "column": 21,
+                  "line": 30
+                },
+                {
+                  "column": 19,
+                  "line": 30
+                },
+                {
+                  "column": 28,
+                  "line": 30
+                },
+                {
+                  "column": 5,
+                  "line": 30
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "column": 12,
+              "line": 30
+            },
+            {
+              "column": 10,
+              "line": 30
+            },
+            {
+              "column": 5,
+              "line": 30
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "lexical_blocks": [
+            {
+              "level": 2,
+              "lexical_blocks": [],
+              "locations": [
+                {
+                  "column": 15,
+                  "line": 35
+                },
+                {
+                  "column": 13,
+                  "line": 35
+                },
+                {
+                  "column": 5,
+                  "line": 36
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "column": 9,
+              "line": 34
+            },
+            {
+              "column": 14,
+              "line": 34
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "lexical_blocks": [
+            {
+              "level": 2,
+              "lexical_blocks": [
+                {
+                  "level": 3,
+                  "lexical_blocks": [
+                    {
+                      "level": 4,
+                      "lexical_blocks": [
+                        {
+                          "level": 5,
+                          "lexical_blocks": [],
+                          "locations": [
+                            {
+                              "column": 19,
+                              "line": 40
+                            },
+                            {
+                              "column": 23,
+                              "line": 40
+                            },
+                            {
+                              "column": 17,
+                              "line": 40
+                            },
+                            {
+                              "column": 9,
+                              "line": 41
+                            }
+                          ]
+                        }
+                      ],
+                      "locations": [
+                        {
+                          "column": 13,
+                          "line": 39
+                        },
+                        {
+                          "column": 17,
+                          "line": 39
+                        },
+                        {
+                          "column": 22,
+                          "line": 39
+                        },
+                        {
+                          "column": 20,
+                          "line": 39
+                        }
+                      ]
+                    }
+                  ],
+                  "locations": [
+                    {
+                      "column": 13,
+                      "line": 39
+                    },
+                    {
+                      "column": 5,
+                      "line": 42
+                    }
+                  ]
+                }
+              ],
+              "locations": [
+                {
+                  "column": 17,
+                  "line": 38
+                },
+                {
+                  "column": 21,
+                  "line": 38
+                },
+                {
+                  "column": 19,
+                  "line": 38
+                },
+                {
+                  "column": 28,
+                  "line": 38
+                },
+                {
+                  "column": 5,
+                  "line": 38
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "column": 12,
+              "line": 38
+            },
+            {
+              "column": 10,
+              "line": 38
+            },
+            {
+              "column": 5,
+              "line": 38
+            }
+          ]
+        }
+      ],
+      "loctions": [
+        {
+          "column": 17,
+          "line": 24
+        },
+        {
+          "column": 28,
+          "line": 24
+        },
+        {
+          "column": 9,
+          "line": 25
+        },
+        {
+          "column": 9,
+          "line": 26
+        },
+        {
+          "column": 9,
+          "line": 27
+        },
+        {
+          "column": 9,
+          "line": 28
+        },
+        {
+          "column": 9,
+          "line": 34
+        },
+        {
+          "column": 31,
+          "line": 44
+        },
+        {
+          "column": 5,
+          "line": 44
+        },
+        {
+          "column": 34,
+          "line": 45
+        },
+        {
+          "column": 5,
+          "line": 45
+        },
+        {
+          "column": 12,
+          "line": 47
+        },
+        {
+          "column": 5,
+          "line": 47
+        }
+      ]
+    },
+    {
+      "func": "complexCalculation",
+      "level": 0,
+      "lexical_blocks": [
+        {
+          "level": 1,
+          "lexical_blocks": [
+            {
+              "level": 2,
+              "lexical_blocks": [],
+              "locations": [
+                {
+                  "column": 18,
+                  "line": 60
+                },
+                {
+                  "column": 26,
+                  "line": 60
+                },
+                {
+                  "column": 24,
+                  "line": 60
+                },
+                {
+                  "column": 16,
+                  "line": 60
+                },
+                {
+                  "column": 5,
+                  "line": 61
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "lexical_blocks": [],
+              "locations": [
+                {
+                  "column": 18,
+                  "line": 62
+                },
+                {
+                  "column": 26,
+                  "line": 62
+                },
+                {
+                  "column": 24,
+                  "line": 62
+                },
+                {
+                  "column": 16,
+                  "line": 62
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "column": 9,
+              "line": 59
+            },
+            {
+              "column": 17,
+              "line": 59
+            },
+            {
+              "column": 15,
+              "line": 59
+            }
+          ]
+        }
+      ],
+      "loctions": [
+        {
+          "column": 29,
+          "line": 50
+        },
+        {
+          "column": 36,
+          "line": 50
+        },
+        {
+          "column": 9,
+          "line": 51
+        },
+        {
+          "column": 9,
+          "line": 52
+        },
+        {
+          "column": 16,
+          "line": 52
+        },
+        {
+          "column": 9,
+          "line": 53
+        },
+        {
+          "column": 9,
+          "line": 54
+        },
+        {
+          "column": 13,
+          "line": 56
+        },
+        {
+          "column": 17,
+          "line": 56
+        },
+        {
+          "column": 15,
+          "line": 56
+        },
+        {
+          "column": 11,
+          "line": 56
+        },
+        {
+          "column": 13,
+          "line": 57
+        },
+        {
+          "column": 17,
+          "line": 57
+        },
+        {
+          "column": 15,
+          "line": 57
+        },
+        {
+          "column": 11,
+          "line": 57
+        },
+        {
+          "column": 9,
+          "line": 59
+        },
+        {
+          "column": 19,
+          "line": 65
+        },
+        {
+          "column": 28,
+          "line": 65
+        },
+        {
+          "column": 26,
+          "line": 65
+        },
+        {
+          "column": 17,
+          "line": 65
+        },
+        {
+          "column": 34,
+          "line": 67
+        },
+        {
+          "column": 5,
+          "line": 67
+        },
+        {
+          "column": 1,
+          "line": 68
+        }
+      ]
+    },
+    {
+      "func": "calculateSum",
+      "level": 0,
+      "lexical_blocks": [
+        {
+          "level": 1,
+          "lexical_blocks": [
+            {
+              "level": 2,
+              "lexical_blocks": [
+                {
+                  "level": 3,
+                  "lexical_blocks": [],
+                  "locations": [
+                    {
+                      "column": 16,
+                      "line": 77
+                    },
+                    {
+                      "column": 13,
+                      "line": 77
+                    },
+                    {
+                      "column": 5,
+                      "line": 78
+                    }
+                  ]
+                }
+              ],
+              "locations": [
+                {
+                  "column": 17,
+                  "line": 76
+                },
+                {
+                  "column": 22,
+                  "line": 76
+                },
+                {
+                  "column": 19,
+                  "line": 76
+                },
+                {
+                  "column": 26,
+                  "line": 76
+                },
+                {
+                  "column": 5,
+                  "line": 76
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "column": 12,
+              "line": 76
+            },
+            {
+              "column": 10,
+              "line": 76
+            },
+            {
+              "column": 5,
+              "line": 76
+            }
+          ]
+        }
+      ],
+      "loctions": [
+        {
+          "column": 22,
+          "line": 70
+        },
+        {
+          "column": 9,
+          "line": 71
+        },
+        {
+          "column": 9,
+          "line": 72
+        },
+        {
+          "column": 9,
+          "line": 73
+        },
+        {
+          "column": 9,
+          "line": 74
+        },
+        {
+          "column": 14,
+          "line": 80
+        },
+        {
+          "column": 20,
+          "line": 80
+        },
+        {
+          "column": 18,
+          "line": 80
+        },
+        {
+          "column": 12,
+          "line": 80
+        },
+        {
+          "column": 12,
+          "line": 82
+        },
+        {
+          "column": 5,
+          "line": 82
+        }
+      ]
+    },
+    {
+      "func": "main",
+      "level": 0,
+      "lexical_blocks": [],
+      "loctions": [
+        {
+          "column": 12,
+          "line": 86
+        },
+        {
+          "column": 28,
+          "line": 87
+        },
+        {
+          "column": 5,
+          "line": 87
+        },
+        {
+          "column": 9,
+          "line": 89
+        },
+        {
+          "column": 13,
+          "line": 90
+        },
+        {
+          "column": 5,
+          "line": 90
+        },
+        {
+          "column": 5,
+          "line": 92
+        },
+        {
+          "column": 9,
+          "line": 94
+        },
+        {
+          "column": 17,
+          "line": 94
+        },
+        {
+          "column": 31,
+          "line": 95
+        },
+        {
+          "column": 5,
+          "line": 95
+        },
+        {
+          "column": 5,
+          "line": 97
+        }
+      ]
+    }
+  ],
+  "var_info": [
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 3,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        19,
+        18,
+        14,
+        13,
+        12,
+        10,
+        8,
+        7,
+        17,
+        6,
+        5,
+        15,
+        4
+      ],
+      "name": "radius"
+    },
+    {
+      "assigns": [
+        10
+      ],
+      "decl": 4,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        19,
+        15,
+        14,
+        13,
+        12,
+        8,
+        18,
+        7,
+        17,
+        6,
+        10,
+        5
+      ],
+      "name": "pi"
+    },
+    {
+      "assigns": [
+        14
+      ],
+      "decl": 5,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        15,
+        14,
+        13,
+        10,
+        19,
+        8,
+        12,
+        18,
+        7,
+        17,
+        6
+      ],
+      "name": "volume"
+    },
+    {
+      "assigns": [
+        15
+      ],
+      "decl": 5,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        15,
+        14,
+        13,
+        10,
+        19,
+        8,
+        12,
+        18,
+        7,
+        17,
+        6
+      ],
+      "name": "area"
+    },
+    {
+      "assigns": [
+        12
+      ],
+      "decl": 6,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        17,
+        15,
+        14,
+        10,
+        13,
+        19,
+        8,
+        12,
+        18,
+        7
+      ],
+      "name": "diameter"
+    },
+    {
+      "assigns": [
+        13
+      ],
+      "decl": 6,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        21,
+        20,
+        17,
+        15,
+        14,
+        10,
+        13,
+        19,
+        8,
+        12,
+        18,
+        7
+      ],
+      "name": "circumference"
+    },
+    {
+      "assigns": [
+        7
+      ],
+      "decl": 7,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        20,
+        18,
+        17,
+        15,
+        14,
+        12,
+        21,
+        10,
+        13,
+        19,
+        8
+      ],
+      "name": "height"
+    },
+    {
+      "assigns": [
+        8
+      ],
+      "decl": 8,
+      "func": "calculateVolumeAndArea",
+      "lines_for_checked:": [
+        22,
+        20,
+        19,
+        18,
+        17,
+        14,
+        13,
+        12,
+        15,
+        21,
+        10
+      ],
+      "name": "factor"
+    },
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 24,
+      "func": "findMax",
+      "lines_for_checked:": [
+        44,
+        45,
+        34,
+        28,
+        27,
+        26,
+        47,
+        25
+      ],
+      "name": "arr"
+    },
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 24,
+      "func": "findMax",
+      "lines_for_checked:": [
+        44,
+        45,
+        34,
+        28,
+        27,
+        26,
+        47,
+        25
+      ],
+      "name": "size"
+    },
+    {
+      "assigns": [
+        26,
+        30,
+        38,
+        30,
+        38
+      ],
+      "decl": 26,
+      "func": "findMax",
+      "lines_for_checked:": [
+        47,
+        34,
+        45,
+        44,
+        28,
+        27
+      ],
+      "name": "i"
+    },
+    {
+      "assigns": [
+        27
+      ],
+      "decl": 27,
+      "func": "findMax",
+      "lines_for_checked:": [
+        47,
+        45,
+        44,
+        34,
+        28
+      ],
+      "name": "sum"
+    },
+    {
+      "assigns": [
+        28
+      ],
+      "decl": 28,
+      "func": "findMax",
+      "lines_for_checked:": [
+        47,
+        45,
+        44,
+        34
+      ],
+      "name": "j"
+    },
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 50,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        59,
+        68,
+        57,
+        65,
+        54,
+        53,
+        52,
+        67,
+        56,
+        51
+      ],
+      "name": "a"
+    },
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 50,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        59,
+        68,
+        57,
+        65,
+        54,
+        53,
+        52,
+        67,
+        56,
+        51
+      ],
+      "name": "b"
+    },
+    {
+      "assigns": [
+        60,
+        62
+      ],
+      "decl": 51,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        59,
+        67,
+        56,
+        65,
+        54,
+        53,
+        68,
+        57,
+        52
+      ],
+      "name": "result"
+    },
+    {
+      "assigns": [
+        56
+      ],
+      "decl": 52,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        68,
+        57,
+        67,
+        56,
+        59,
+        65,
+        54,
+        53
+      ],
+      "name": "temp1"
+    },
+    {
+      "assigns": [
+        57
+      ],
+      "decl": 52,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        68,
+        57,
+        67,
+        56,
+        59,
+        65,
+        54,
+        53
+      ],
+      "name": "temp2"
+    },
+    {
+      "assigns": [
+        53,
+        65
+      ],
+      "decl": 53,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        54,
+        65,
+        68,
+        57,
+        67,
+        56,
+        59
+      ],
+      "name": "finalResult"
+    },
+    {
+      "assigns": [
+        54
+      ],
+      "decl": 54,
+      "func": "complexCalculation",
+      "lines_for_checked:": [
+        65,
+        59,
+        56,
+        67,
+        68,
+        57
+      ],
+      "name": "factor"
+    },
+    {
+      "assigns": [
+        0
+      ],
+      "decl": 70,
+      "func": "calculateSum",
+      "lines_for_checked:": [
+        80,
+        74,
+        73,
+        72,
+        82,
+        71
+      ],
+      "name": "n"
+    },
+    {
+      "assigns": [
+        71,
+        77
+      ],
+      "decl": 71,
+      "func": "calculateSum",
+      "lines_for_checked:": [
+        80,
+        74,
+        73,
+        82,
+        72
+      ],
+      "name": "sum"
+    },
+    {
+      "assigns": [
+        76,
+        76
+      ],
+      "decl": 72,
+      "func": "calculateSum",
+      "lines_for_checked:": [
+        82,
+        80,
+        74,
+        73
+      ],
+      "name": "i"
+    },
+    {
+      "assigns": [
+        80
+      ],
+      "decl": 73,
+      "func": "calculateSum",
+      "lines_for_checked:": [
+        82,
+        80,
+        74
+      ],
+      "name": "result"
+    },
+    {
+      "assigns": [
+        74
+      ],
+      "decl": 74,
+      "func": "calculateSum",
+      "lines_for_checked:": [
+        82,
+        80
+      ],
+      "name": "j"
+    },
+    {
+      "assigns": [
+        86
+      ],
+      "decl": 86,
+      "func": "main",
+      "lines_for_checked:": [
+        97,
+        95,
+        90,
+        94,
+        89,
+        92,
+        87
+      ],
+      "name": "radius"
+    },
+    {
+      "assigns": [
+        94
+      ],
+      "decl": 94,
+      "func": "main",
+      "lines_for_checked:": [
+        97,
+        95
+      ],
+      "name": "total"
+    }
+  ]
+}
